@@ -20,6 +20,14 @@
 - **دو زبانه**: فارسی (RTL) و انگلیسی (LTR) با تغییر فوری از منوی تنظیمات.
 - **رابط دسکتاپ مدرن**: ساخته‌شده با PySide6، فونت وزیرمتن، طراحی کارت‌محور و جدول خوانا.
 
+<p align="center">
+  <img src="daftar.JPG" 
+       alt="login" 
+       width="900">
+</p>
+<hr>
+
+
 ### English
 - **Fully local & offline**: No server, no cloud dependency; your data stays on your machine.
 - **Independent projects**: Each project has its own SQLite database, attachment folder, and field schema.
